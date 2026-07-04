@@ -4,6 +4,11 @@ An interactive **Power BI Dashboard** that compares the economic, social, educat
 
 ---
 
+**Disclaimer:**
+
+The dataset used in this project has not been independently verified and should not be considered an authoritative source for real-world analysis. It was used solely for learning, practice, and demonstrating Power BI dashboard development, data visualization, and analytical skills.
+---
+
 ## 📌 Project Overview
 
 This project was developed to analyze and compare **6 countries** across various development indicators using interactive visualizations and KPI-driven dashboards.
